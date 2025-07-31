@@ -17,10 +17,5 @@ This repository contains SQL scripts and an example database dump for a **Person
 - Example queries for reporting on income, expenses, and budget summaries.
 - Step-by-step instructions for exporting, saving, and loading the database.
 
-## 🚀 Getting Started
 
-### 1. Import the SQL Dump
-
-1. Download or clone this repository.
-2. Use the provided SQL dump file (`finance_tracker_dump.sql`) to create the database on your MySQL server:
 
